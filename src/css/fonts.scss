@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'Agency Fb';
+  src: url('./fonts/agency-fb/AGENCYR.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ar-bonnie';
+  src: url('./fonts/ar-bonnie/AR-BONNIE-FONT.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('./fonts/helvetica/HelveticaNeueLTStd\ Roman.otf') format('embedded-opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+/* Global */
+.font-bold {
+    font-weight: bold;
+}
+
+/* agency font classes */
+.agency-30{
+    font-family: 'Agency Fb';
+    font-size: 30px;
+}
+.agency-48{
+    font-family: 'Agency Fb';
+    font-size: 48px;
+}
+.agency-60{
+    font-family: 'Agency Fb';
+    font-size: 60px;
+}
+
+/* BONNIE font classes */
+.bonnie-24{
+    font-family: 'Ar-bonnie';
+    font-size: 24px;
+}
+
+/* Helvetica font classes */
+.helvetica-24{
+    font-family: 'Helvetica';
+    font-size: 24px;
+}
+.helvetica-30{
+    font-family: 'Helvetica';
+    font-size: 30px;
+}
