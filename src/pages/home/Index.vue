@@ -4,7 +4,7 @@
           where creativity begins
       </div>
       <div>
-          <q-btn round outline size="60px" color="black" class="q-pa-l bg-primary " style=" border: 2px solid;" >
+          <q-btn round outline size="60px" color="black" class="q-ma-md bg-primary " style=" border: 2px solid;" >
               <div class="absloute-center flex column flex-center  text-white">
                   <span class="agency-30 absloute-center" style="font-size:14px;line-height: 14px;">
                       content creator
