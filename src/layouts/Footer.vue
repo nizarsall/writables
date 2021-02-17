@@ -1,5 +1,5 @@
 <template>
-<q-footer class="bg-transparent text-white absloute" style="width:50%; left:25% ">
+<div class="bg-transparent text-white">
       <div class="center column justify-center">
         <div
           class="agency-30 text-secondary absloute"
@@ -39,5 +39,5 @@
           </div>
         </q-tabs>
       </q-toolbar>
-    </q-footer>
+</div>
     </template>
