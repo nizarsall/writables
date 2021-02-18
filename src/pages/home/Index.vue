@@ -1,7 +1,7 @@
 <template>
-  <div class="row justify-center items-end">
-    <div class="column self-end">
-      <div class="agency-60" color="primary" style="text-align:center;">
+  <div class="row justify-center items-center" style="height:100%">
+    <div class="column ">
+      <div class="agency-60 " color="primary" style="text-align:center;">
         where creativity begins
       </div>
       <div>

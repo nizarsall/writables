@@ -1,5 +1,5 @@
 <template>
-<div class="bg-transparent text-white">
+<div class="bg-transparent text-white q-ma-none vertical-bottom">
       <div class="center column justify-center">
         <div
           class="agency-30 text-secondary absloute"
